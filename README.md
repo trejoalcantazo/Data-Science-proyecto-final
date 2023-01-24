@@ -1,4 +1,4 @@
-#Curso de Data Science, plataforma Coderhouse
+##Curso de Data Science, plataforma Coderhouse
 
 Areas vistas finalizando curso de Data Science:
 
